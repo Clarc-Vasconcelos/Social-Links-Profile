@@ -8,7 +8,7 @@ O projeto se constitui em um facilitador para saber um resumo sobre em qual tecn
 ![Social-Links-Profile](https://github.com/Clarc-Vasconcelos/My-Web-Page/assets/129234188/ab1fa1aa-0393-436f-abd5-0730d4807dfc)
 <br />
 
-<p>Para visualizar a página em ação, acesse este `link`.</p>
+<p>Para visualizar a página em ação, acesse este <a href='https://social-links-profile-xi-one.vercel.app/' target'_blank'>link</a>.</p>
 
 ## Tecnologias Utilizadas
 <ul>
