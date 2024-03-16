@@ -12,7 +12,7 @@ O projeto se constitui em um facilitador para saber um resumo sobre em qual tecn
 
 ## Tecnologias Utilizadas
 <ul>
-<li>React (18.2.0) `+` vite</li>
+<li>React (18.2.0) + vite</li>
 <li>CSS3</li>
 <li>Node.js (v20.11.0)</li>
 </ul>
