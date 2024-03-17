@@ -37,7 +37,7 @@ O projeto se constitui em um facilitador para saber um resumo sobre em qual tecn
 <li>faça um fork do repositório.</li>
 <li>crie uma branch para realizar suas alterações `git checkout -b feature/nome-da-feature`.
 </li>
-<li>faça as alterações deaejadas e adicione-as `git add .`.
+<li>faça as alterações desejadas e adicione-as `git add .`.
 </li>
 <li>faça os commits das alterações `git commit -m " descrição das alterações"`.
 </li>
